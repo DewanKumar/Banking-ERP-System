@@ -1,0 +1,6 @@
+package com.bank.erp.ERP.entity;
+
+public enum TransactionType {
+    Credit,
+    Debit,
+}
