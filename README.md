@@ -61,7 +61,7 @@ src/main/java
 
 ## ⚙️ Setup & Installation
 
-## ⚙️ Setup & Installation
+---
 
 ### Prerequisites
 - Java 17+
