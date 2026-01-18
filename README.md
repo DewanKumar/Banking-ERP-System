@@ -128,4 +128,5 @@ Application runs at: http://localhost:8080
 ## 👤 Author
 
 **Dewan Kumar**
-**Java Backend Developer (Spring Boot)**
+
+**(Java Backend Developer (Spring Boot))**
