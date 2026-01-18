@@ -99,7 +99,6 @@ Access to APIs is granted or denied based on the user’s **role and permissions
 
 ▶️ How to Run Locally
 1️⃣ Clone Repository
-git clone https://github.com/your-username/banking-erp-system.git
 cd banking-erp-system
 
 2️⃣ Configure Database
