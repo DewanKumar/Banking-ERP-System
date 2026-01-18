@@ -115,7 +115,7 @@ Application runs at: http://localhost:8080
 
 ---
 
-##📈 What This Project Demonstrates
+## 📈 What This Project Demonstrates
 
 - Real-world Spring Security implementation
 - JWT authentication & authorization
@@ -123,7 +123,9 @@ Application runs at: http://localhost:8080
 - Backend debugging and problem-solving
 - Clean, maintainable codebase
 
-##👤 Author
+---
+
+## 👤 Author
 
 **Dewan Kumar**
 **Java Backend Developer (Spring Boot)**
